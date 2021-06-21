@@ -1,0 +1,108 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background-color: black
+}
+
+.top {
+    color: #F3F3F3
+}
+
+.menu {
+    text-align: right;
+}
+
+.contenedor {
+    background-color: #F0A83E;
+    word-spacing: 1em;
+    font-size: 0.8em;
+}
+
+.pawprint {
+    height: 0.8em;
+}
+
+.logo {
+    height: 1.8em;
+}
+
+h2 {
+    background-color: #ffffff;
+    width: max-content;
+    font-size: 3em;
+}
+
+.banner {
+    background-image: url(../img/foto.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: #3C2313;
+    width: 100%;
+    height: 38rem;
+    text-align: right;
+}
+
+.banner p {
+    font-size: 2em;
+}
+
+.boton {
+    background-color: #F0A83E;
+    width: max-content;
+    color: #ffffff;
+}
+
+.principal {
+    text-align: center;
+}
+
+.paw {
+    height: 10em;
+}
+
+h1 {
+    color: #3C2313;
+    font-size: 4em;
+    font-weight: 700;
+}
+
+nav a {
+    text-decoration: none;
+    color: #666666;
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.articulo h3 {
+    color: #3C2313;
+    font-weight: 500;
+}
+
+.articulo p {
+    color: #F0A83E;
+    font-weight: 500;
+    font-size: 1.17em;
+}
+
+.fondo {
+    color: #F3F3F3;
+    background-color: #222222;
+    text-align: center;
+    font-weight: bold;
+}
+
+.enviarCorreo {
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+
+.contacto {
+    background-color: #3C2313;
+    color: #ffffff;
+}
+
+footer {
+    font-weight: 700;
+}
